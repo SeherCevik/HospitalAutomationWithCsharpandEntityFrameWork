@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\grona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grona\\.nuget\\packages"
+    ]
+  }
+}
